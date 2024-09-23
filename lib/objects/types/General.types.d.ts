@@ -1,0 +1,12 @@
+export declare type FSObjType = 0 | 1 | 2;
+export declare type StringBoolean = "0" | "1";
+export declare type StringNumber = string;
+export declare type StringHTML = string;
+export declare type StringUrl = string;
+export declare type StringRelativeUrl = string;
+export declare type StringUUID = string;
+export declare type StringDate = string;
+export declare type StringFormattedDate = string;
+export declare type StringUserLogin = string;
+export declare type StringUserTitle = string;
+//# sourceMappingURL=General.types.d.ts.map
